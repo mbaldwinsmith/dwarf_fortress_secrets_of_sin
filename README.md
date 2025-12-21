@@ -1,2 +1,15 @@
-# dwarf_fortress_secrets_of_sin
-A Dwarf Fortress mod introducing procedurally generated Sin-Curses inspired by the Seven Deadly Sins. Forbidden secrets tempt mortals with power, but manifest as slow, vampiric curses that reshape personalities, relationships, and history—spreading corruption through dwarves, nobles, and civilizations over time.
+# Seven Secrets of Sin
+
+Seven Secrets of Sin is a Dwarf Fortress raw-only mod that adds seven [I_SOURCE:SECRET] interactions aligned with the Seven Deadly Sins.
+
+Learning a secret applies a syndrome that shifts personality traits and grants a line-of-sight aura interaction. The aura inflicts strong emotions and mild personality nudges on nearby intelligent creatures, creating social and psychological fallout rather than physical harm.
+
+## Features
+- Seven sin-aligned secrets with distinct Orders
+- Permanent personality shifts on the bearer
+- Emotional auras that influence nearby intelligent creatures
+- Worldgen integration so secrets can appear in legends, books, and teaching
+
+## Requirements
+- Raw-only mod; no external tools needed
+- Generate a new world for full secret and sphere integration
