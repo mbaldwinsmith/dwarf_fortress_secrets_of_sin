@@ -59,3 +59,5 @@ Secrets are actual [I_SOURCE:SECRET] interactions. They:
 [STEAM_TAG:adventure]
 [STEAM_TAG:worldgen]
 [STEAM_CHANGELOG:1.0 - Initial release featuring seven sin-aligned secrets, personality shifts, and emotional auras.]
+
+[STEAM_FILE_ID:3628248687]
