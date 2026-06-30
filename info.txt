@@ -5,7 +5,7 @@
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:1.0]
 [AUTHOR:Mark Baldwin-Smith]
 [NAME:Seven Secrets of Sin]
-[DESCRIPTION:Seven Secrets of Sin adds seven [I_SOURCE:SECRET] interactions aligned with the Seven Deadly Sins.
+[DESCRIPTION:Seven Secrets of Sin adds seven secret-type interactions aligned with the Seven Deadly Sins.
 
 Learning a secret applies a syndrome that shifts personality traits and grants a line-of-sight aura interaction. The aura inflicts strong emotions and mild personality nudges on nearby intelligent creatures, creating social and psychological fallout rather than physical harm.
 
@@ -14,41 +14,25 @@ Secrets are tied to divine spheres during world generation, so cults and histori
 Raw-only mod. Generate a new world to ensure secret and sphere integration.]
 
 [STEAM_TITLE:Seven Secrets of Sin]
-[STEAM_DESCRIPTION:[h1]Seven Secrets of Sin[/h1]
-[i]A psychological catastrophe in every fortress.[/i]
+[STEAM_DESCRIPTION:Seven Secrets of Sin
+A psychological catastrophe in every fortress.
 
-[h2]What is this mod?[/h2]
-Seven Secrets of Sin introduces seven forbidden secrets based on the Seven Deadly Sins. These aren’t monsters or explosions — they are ideas that warp emotion, personality, and society itself.
+What is this mod?
+Seven Secrets of Sin introduces seven forbidden secrets based on the Seven Deadly Sins. These aren't monsters or explosions, they are ideas that warp emotion, personality, and society itself.
 
 Each secret can be learned through books, taught by scholars, and leaves a permanent mark on its bearer. Once a secret is known, its aura radiates emotional influence on nearby intelligent creatures, reshaping fortress life in subtle, dramatic, and FUN ways.
 
-[h2]Features[/h2]
-[b]📚 Seven Learnable Secrets[/b]
-Each sin is a unique secret with:
-[list]
-[*][b]A narrative identity[/b] — “Order of Pride,” “Order of Greed,” etc.
-[*][b]Permanent personality change[/b] when learned
-[*][b]An aura that radiates emotional effects[/b] to nearby intelligent beings
-[/list]
+Features
 
-[b]📖 Worldgen Integration[/b]
-Secrets are actual [I_SOURCE:SECRET] interactions. They:
-[list]
-[*]Appear in Legends mode
-[*]Can be learned, researched, and recorded
-[*]Propagate through written content and teaching
-[/list]
+Seven Learnable Secrets. Each sin is a unique secret with a narrative identity (Order of Pride, Order of Greed, and so on), a permanent personality change when learned, and an aura that radiates emotional effects to nearby intelligent beings.
 
-[h2]Gameplay Impact[/h2]
-[i]This mod is about mood, not mass slaughter.[/i]
+Worldgen Integration. Secrets are actual secret-type interactions. They appear in Legends mode, can be learned, researched, and recorded, and propagate through written content and teaching.
 
-[h2]Compatibility & Requirements[/h2]
-✔ Raw-only mod — no external tools required
-✔ Works with vanilla secrets and worldgen
-✔ Written content (books) encouraged for fullest experience
+Gameplay Impact. This mod is about mood, not mass slaughter.
 
-[h2]Contribute[/h2]
-🤓 [url=https://github.com/mbaldwinsmith/dwarf_fortress_secrets_of_sin]Github repository[/url]]
+Compatibility and Requirements. Raw-only mod, no external tools required. Works with vanilla secrets and worldgen. Written content (books) encouraged for fullest experience.
+
+Contribute. Github repository at github.com/mbaldwinsmith/dwarf_fortress_secrets_of_sin]
 [STEAM_TAG:mod]
 [STEAM_TAG:magic]
 [STEAM_TAG:syndrome]
